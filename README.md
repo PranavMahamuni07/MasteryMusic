@@ -1,3 +1,21 @@
+
+# MasteryMusic 🎶
+
+MasteryMusic is a frontend music course website built using **Next.js**, with a focus on experimenting with **TypeScript** and **AccertinityUI**. This project demonstrates the power of modern web technologies in creating an interactive and responsive interface for users looking to learn music online.
+
+### Features:
+- **TypeScript Integration**: Ensures type safety and better development experience.
+- **AccertinityUI**: Provides a sleek and customizable UI framework to deliver a polished user interface.
+- **Next.js**: For server-side rendering and fast performance.
+  
+This project is purely frontend and designed to explore and enhance skills in **UI development** and **TypeScript**.
+
+Feel free to explore the code and contribute!
+
+--- 
+
+Let me know if you’d like any adjustments!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
